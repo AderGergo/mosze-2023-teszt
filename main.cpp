@@ -36,5 +36,7 @@ int main()
 
     delete[] b;
 
+    std::cout << "Ez az új szöveg";
+
     return 0;
 }
